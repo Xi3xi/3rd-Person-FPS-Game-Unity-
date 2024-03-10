@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Prefab/World.meta
+guid: 11c7ae80363415744aca187992991344
+folderAsset: yes
+DefaultImporter:
+========
+guid: c450c5ac5142c18448ddad4e83122d02
+NativeFormatImporter:
+>>>>>>>> 3af7ec0cfaf9fddf75f5ed840a8aa17de479d527:Assets/StartScene_BiomedPlayer/NavMesh.asset.meta
+  externalObjects: {}
+  mainObjectFileID: 23800000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Scripts/Inventory/KeyItems/Item_Key_Microscope.asset.meta
+guid: c2922b0fb46163a49a18f3bb3bb7a611
+NativeFormatImporter:
+========
+guid: a3a6f8a11fa0ab34baea781f536b7c2f
+folderAsset: yes
+DefaultImporter:
+>>>>>>>> map:Assets/Prefabs/Canvas/Canvas/Map.meta
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/World/NavMesh.asset.meta
+guid: 95565ce5bbb092f43a9868f9416c55c2
+NativeFormatImporter:
+========
+guid: b153c1825c5ce164f98bcfbf9b684b05
+folderAsset: yes
+DefaultImporter:
+>>>>>>>> map:Assets/Map.meta
+  externalObjects: {}
+  mainObjectFileID: 23800000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

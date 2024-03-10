@@ -1,0 +1,31 @@
+# Fill out all team + team member details below by replacing the content of the
+# respective strings. This file is parsed by our autograding software, so ensure
+# that you only replace the placeholder text, not the keys (e.g. TeamName, etc.)
+
+# 1. Your team's GitHub repository URL for project 2 (*not* project 1)
+RepoURL: https://github.com/COMP30019/project-2-arcane-studio
+
+# 2. Since you are working in the same team for project 2, you should copy the
+#    below keys/values *verbatim* from your project 1 metadata.yml -- do not
+#    change them unless you have permission from the teaching team.
+TeamName: Arcane Studio
+TeamMembers:
+  - Name: Xin Xiang
+    Email: xxxian1@student.unimelb.edu.au
+  - Name: Yue Song
+    Email: yuesong1@student.unimelb.edu.au
+  - Name: Warren Ang
+    Email: warren.ang@student.unimelb.edu.au
+  - Name: Shan Mou Liew
+    Email: shanmoul@student.unimelb.edu.au
+
+# 3. The below keys must be filled out by the given milestone deadlines, and
+#    you must also re-submit on Gradescope to register these changes officially
+#    (like in project 1). Read the specification for details.
+
+# Milestone 1 entries
+GameTitle: Campus of Undead
+GameBlurb: This game is a unique zombie survival game set on the sprawling campus of a university during an on-campus zombie apocalypse set forth by rebellious students. Surrounding the themes of horror, survival, exploration, and character progression, this game aims to recreate the stressful experience every student shared during their university life. Hence, players take on the role of a student who must fight through the undead-infested campus by scavenging valuable resources and intel and utilising them to uplevel their skillset to survive the onslaught while being hunted by the undead. The game is set on an apocalyptic university campus where a zombie virus outbreak occurs due to a biological attack. Players will take on the role of a resourceful student who, while battling hordes of undead creatures, strategically arms themselves with different skills to eventually escape.
+
+# Milestone 2 entries
+GameplayVideo: https://youtu.be/ZJ5oENssGkQ

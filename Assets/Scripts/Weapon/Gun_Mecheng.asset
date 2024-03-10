@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 339af3ad226df3544947e2bcadff6df4, type: 3}
+  m_Name: Gun_Mecheng
+  m_EditorClassIdentifier: 
+  id: 0
+  displayName: Gun
+  icon: {fileID: 21300000, guid: 4efdb6e6ddff2194aa1a21b2e5c931df, type: 3}
+  prefab: {fileID: 1072090535415360, guid: 81fbe394daab72e4ebf5ce7dd1bb4e1b, type: 3}
+  damage: 25
+  maxRound: 20
+  consumeRound: 1
+  reloadRound: 10
+  causeContinuousDamage: 0
+  isProjectile: 0
+  hasBullet: 1
+  coolDownTime: 0.2
+  launchVelocity: 500
+  generate: {fileID: 1000012871492402, guid: 3952c3a6b1e8eb1428d334405ec2e899, type: 3}
+  isPoisonous: 0
+  audio: {fileID: 8300000, guid: 6158614d139fb7c4e81766106d19b0b8, type: 3}
+  clockSound: {fileID: 8300000, guid: aa7c69039a1620b4792ca600ca5e0ab6, type: 3}

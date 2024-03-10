@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 525ff6a8339fd094e9b79033a42c2779, type: 3}
+  m_Name: Item_Exp
+  m_EditorClassIdentifier: 
+  id: InventoryItem_Exp
+  displayName: Course notes
+  icon: {fileID: 21300000, guid: f5809b9b27ebcf64ca325ea793169b85, type: 3}
+  prefab: {fileID: 1345328649443024, guid: e81e8a8ed503d0f4ca8641363578a363, type: 3}

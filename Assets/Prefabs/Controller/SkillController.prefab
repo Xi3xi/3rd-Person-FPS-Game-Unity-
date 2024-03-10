@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5972893974505495365
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6245672226043139056}
+  - component: {fileID: 1222662906486344013}
+  - component: {fileID: 8362361011347205676}
+  - component: {fileID: 1359888027581525293}
+  - component: {fileID: 3259303186996514856}
+  - component: {fileID: 1025427737283791254}
+  m_Layer: 3
+  m_Name: SkillController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6245672226043139056
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5972893974505495365}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1222662906486344013
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5972893974505495365}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 492a57dc1239ee340a413aa92f00c59d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  robotPrefabs: {fileID: 100000, guid: 28723f10c2a8e094a9351e892f5271b8, type: 3}
+  inventoryRobotDataRef: {fileID: 11400000, guid: e3ee23f4cadc81447aaa4447484e0fd1, type: 2}
+--- !u!114 &8362361011347205676
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5972893974505495365}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4dbfc95296d725499c1d7731596566a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  inventoryAEDDataRef: {fileID: 11400000, guid: db609827bc4a5ab4b8e1c743f496d28d, type: 2}
+  inventoryMicroscopeDataRef: {fileID: 11400000, guid: 595a6f2d459daa04bbe6b1153066a90c, type: 2}
+  inventoryShieldDataRef: {fileID: 11400000, guid: d9b0d8d80623c59499494c5c8d91bc7a, type: 2}
+--- !u!114 &1359888027581525293
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5972893974505495365}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4589a1951630c548aa03c8d3e141157, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  inventoryPaletteDataRef: {fileID: 11400000, guid: 07a8956c9826c5941b7e4302f76c7300, type: 2}
+--- !u!114 &3259303186996514856
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5972893974505495365}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0716b4cf9d2d7594e8708af093ce7e74, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  inventoryMicrophoneDataRef: {fileID: 11400000, guid: da0861d990948ed478fbc6e8a3ef5cde, type: 2}
+--- !u!114 &1025427737283791254
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5972893974505495365}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0d0d5937cf793741b14a43e958a68a0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

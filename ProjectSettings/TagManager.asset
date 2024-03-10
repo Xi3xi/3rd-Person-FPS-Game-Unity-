@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - playerCam
+  - Enemy
+  - Robot
+  - Skill1
+  - SkillSlot
+  - WeaponHolder
+  - DamageOverlay
+  - DamageOverlayer
+  - TimerText
+  - FxTemporaire
+  - SkillCanvas
+  - ChatWindow
+  - SkillMenu
+  - Map
+  - Survivor
+  - Distraction
+  - GameManager
+  - SpawnBoss
+  - InventoryUI
+  - dialogue
+  - CutSceneCanvas
+  - PlayerMapIcon
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - whatisGround
+  - zombies
+  - Map
+  - Item
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

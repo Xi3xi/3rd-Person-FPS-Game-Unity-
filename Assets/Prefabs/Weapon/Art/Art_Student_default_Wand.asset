@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 339af3ad226df3544947e2bcadff6df4, type: 3}
+  m_Name: Art_Student_default_Wand
+  m_EditorClassIdentifier: 
+  id: 3
+  displayName: wand
+  icon: {fileID: 21300000, guid: dfcae2a5ea15f7a439575b76d8a79cc9, type: 3}
+  prefab: {fileID: 150956, guid: 3d82ce662f8379d4ea5ca219048ff108, type: 3}
+  damage: 1
+  maxRound: 1000
+  consumeRound: 1
+  reloadRound: 1000
+  causeContinuousDamage: 1
+  isProjectile: 0
+  coolDownTime: 0
+  launchVelocity: 500
